@@ -1,0 +1,6 @@
+C:\Users\JosueCour\Desktop\trabajo\martin\2014139587\2014139587\bin\Debug\2014139587.exe.config
+C:\Users\JosueCour\Desktop\trabajo\martin\2014139587\2014139587\bin\Debug\2014139587.exe
+C:\Users\JosueCour\Desktop\trabajo\martin\2014139587\2014139587\bin\Debug\2014139587.pdb
+C:\Users\JosueCour\Desktop\trabajo\martin\2014139587\2014139587\obj\Debug\2014139587.exe
+C:\Users\JosueCour\Desktop\trabajo\martin\2014139587\2014139587\obj\Debug\2014139587.pdb
+C:\Users\JosueCour\Desktop\trabajo\martin\2014139587\2014139587\obj\Debug\2014139587.csprojResolveAssemblyReference.cache

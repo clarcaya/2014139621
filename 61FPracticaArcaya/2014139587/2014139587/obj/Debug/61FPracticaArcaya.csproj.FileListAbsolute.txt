@@ -1,0 +1,6 @@
+D:\Users\sistemas\Desktop\martin\2014139587\2014139587\bin\Debug\2014139587.exe.config
+D:\Users\sistemas\Desktop\martin\2014139587\2014139587\bin\Debug\2014139587.exe
+D:\Users\sistemas\Desktop\martin\2014139587\2014139587\bin\Debug\2014139587.pdb
+D:\Users\sistemas\Desktop\martin\2014139587\2014139587\obj\Debug\61FPracticaArcaya.csprojResolveAssemblyReference.cache
+D:\Users\sistemas\Desktop\martin\2014139587\2014139587\obj\Debug\2014139587.exe
+D:\Users\sistemas\Desktop\martin\2014139587\2014139587\obj\Debug\2014139587.pdb
